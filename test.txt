@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature 2 work added feature 2 text
 =======
 feature 2 work, commit 2
@@ -11,3 +12,6 @@ feature 2 work, commit 3
 =======
 feature 2 work, commit 4
 >>>>>>> feature 2 commit 4
+=======
+feature 2 work, commit 5
+>>>>>>> feature 2 commit 5
